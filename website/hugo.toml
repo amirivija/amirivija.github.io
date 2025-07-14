@@ -1,4 +1,61 @@
 baseURL = 'https://amirivija.github.io/'
 languageCode = 'en-us'
-title = 'Vijay Amirisetty'
+title = 'Vijay Amirisetty - Senior Technology & ML Leader'
 theme = 'ananke'
+
+# Site description for SEO
+description = "Senior Technology and Machine Learning leader with 16+ years of experience in e-Commerce, Supply Chain, Transportation, Big Data and Social Networking platforms."
+
+# Author information
+[author]
+  name = "Vijay Amirisetty"
+
+# Main menu configuration
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Experience"
+  url = "/experience/"
+  weight = 3
+
+[[menu.main]]
+  name = "Skills"
+  url = "/skills/"
+  weight = 4
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
+
+# Social media links
+[params]
+  github = "amirivija"
+  linkedin = "vijay-amirisetty"
+  description = "Senior Technology and Machine Learning leader with 16+ years of experience delivering scalable platforms."
+  
+# SEO and social media
+[params.social]
+  twitter = "vijayamirisetty"
+  linkedin = "vijay-amirisetty"
+  github = "amirivija"
+
+# Site features
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
