@@ -1,109 +1,191 @@
 ---
 title: "Projects & Achievements"
-description: "Notable projects and technical achievements"
+description: "Major projects and business impact across 20 years of engineering leadership"
 featured_image: ""
 ---
 
 # Projects & Achievements
 
-## Major Platform Initiatives
+## Amazon - Global Scale Infrastructure (2016 - Present)
 
-### E-Commerce Recommendation Engine
-**Impact**: Increased conversion rates by 25% through personalized product recommendations
+### Material Catalog Platform - Global Infrastructure
+**Impact**: Serving 600+ clients at 1.35M TPS with 99.99% availability
 
-- Built machine learning pipeline processing 100M+ user interactions daily
-- Implemented real-time recommendation API serving sub-100ms responses
-- Deployed collaborative filtering and deep learning models
-- Created A/B testing framework for continuous model improvement
+- **Scale Achievement**: Built platform handling **1.35M transactions per second** during peak with **99.99% availability**
+- **Business Value**: Enabled **$3.8B in automation benefits** through robotics integration
+- **Cost Optimization**: Reduced operational costs by **$31.2M annually**
+- **Global Reach**: Supporting **600+ clients** across Amazon's worldwide fulfillment network
 
-**Technologies**: Python, TensorFlow, Apache Kafka, Redis, AWS
+**Technologies**: AWS, Java, Python, DynamoDB, Real-time processing, Microservices
 
-### Supply Chain Optimization Platform
-**Impact**: Reduced logistics costs by 20% and improved delivery times by 30%
+### Global Fulfillment Catalog Modernization
+**Impact**: Supporting $1.9B in annual business value
 
-- Developed predictive analytics for demand forecasting
-- Implemented route optimization algorithms using graph theory
-- Built real-time inventory tracking and alert systems
-- Created automated replenishment workflows
+- **Business Scale**: Architected catalog modernization supporting **$1.9B annual business value** for Amazon Bulk Services
+- **Data Quality**: Improved country of origin tracking accuracy from **33.4% to 91.56%**
+- **Regulatory Compliance**: Prevented **£80k per instance regulatory fines**
+- **Global Operations**: Enabling accurate fulfillment across worldwide network
 
-**Technologies**: Scala, Apache Spark, Apache Airflow, PostgreSQL, Kubernetes
+**Technologies**: Machine Learning, Data Quality Systems, Global Infrastructure
 
-### On-Demand Transportation Matching System
-**Impact**: Enabled platform to handle 1M+ rides per day with 95% match rate
+### Supply Chain Safety & Compliance Platform
+**Impact**: Protecting $4.6B in GMS across 11 global marketplaces
 
-- Architected real-time ride-matching algorithm
-- Implemented dynamic pricing based on supply-demand patterns
-- Built driver mobile app with GPS tracking and navigation
-- Created fraud detection and safety monitoring systems
+- **Marketplace Protection**: Derisked **$4.6 Billion in Gross Merchandise Sales** across **11 marketplaces worldwide**
+- **Product Safety**: Ensured safety and compliance of **700 Million Products**
+- **Advanced AI**: Leveraged computer vision and NLP for automated safety classification
+- **Ontology Innovation**: Developed ontology-based knowledge system for automatic product classification
 
-**Technologies**: Java, Spring Boot, Apache Kafka, MongoDB, React Native
+**Technologies**: Computer Vision, NLP, Machine Learning, Policy Automation
 
-## Data Platform Achievements
+### Dangerous Goods Classification System
+**Impact**: 48% reduction in unsafe shipments, $50.6M daily penalty prevention
 
-### Real-Time Analytics Infrastructure
-**Impact**: Reduced data processing latency from hours to minutes
+- **Safety Improvement**: Achieved **48% reduction in unsafe shipments**
+- **Risk Mitigation**: Eliminated latent penalties of **$50.6 Million per day**
+- **Closed Loop System**: Built comprehensive compliance system for dangerous goods
+- **Real-time Processing**: Policy authoring platform evaluating **8.2 million TPS**
 
-- Built streaming data pipeline processing 10TB+ daily
-- Implemented Lambda architecture for batch and real-time processing
-- Created self-service analytics platform for business users
-- Established data governance and quality monitoring
+**Technologies**: Real-time ML, Compliance Systems, Risk Management
 
-**Technologies**: Apache Kafka, Apache Spark, Elasticsearch, Tableau, Docker
+### Amazon Inspire - Social Networking Platform
+**Impact**: 99.9% SLA at 600K TPS for social networking launch
 
-### Machine Learning Operations Platform
-**Impact**: Accelerated model deployment from weeks to hours
+- **Product Launch**: Led Amazon's first social networking product launch in 2017
+- **Performance**: Achieved **99.9% SLA** handling **600K TPS**
+- **ML Innovation**: Built real-time content relevance scoring using Amazon SageMaker
+- **Personalization**: Implemented personalized notifications and content ranking
 
-- Built MLOps platform for model lifecycle management
-- Implemented automated testing and validation pipelines
-- Created model monitoring and drift detection systems
-- Established feature store for ML feature management
+**Technologies**: Amazon SageMaker, Real-time ML, Microservices, AWS
 
-**Technologies**: Python, Kubernetes, MLflow, Prometheus, Grafana
+---
 
-## Innovation & Research
+## Ola - Transportation Technology Leadership (2014 - 2016)
 
-### Social Graph Algorithms
-**Impact**: Improved friend suggestions accuracy by 40%
+### Massive Scale Growth Platform
+**Impact**: 10X growth to 1 million daily trips in 18 months
 
-- Developed graph neural networks for social connections
-- Implemented community detection algorithms
-- Built real-time social feed ranking system
-- Created privacy-preserving recommendation methods
+- **Scale Achievement**: Supported **3x platform growth in 18 months** driving **10X growth to 1 million daily trips**
+- **Geographic Expansion**: Led technology expansion from **7 to 100 cities worldwide within 1 month**
+- **Team Leadership**: Managed **40 engineers** through 2 engineering managers
+- **Strategic Innovation**: Reported to CTO leading strategic technology initiatives
 
-**Technologies**: Python, PyTorch, Neo4j, Apache Kafka, Redis
+**Technologies**: Distributed Systems, Microservices, Mobile Applications
 
-### Predictive Maintenance System
-**Impact**: Reduced equipment downtime by 50%
+### Machine Learning Driver Allocation
+**Impact**: 36% improvement in driver acceptance rates
 
-- Built IoT sensor data collection and processing system
-- Implemented anomaly detection using unsupervised learning
-- Created predictive models for equipment failure
-- Developed maintenance scheduling optimization
+- **ML Optimization**: Implemented Machine Learning Driver Allocation Algorithms
+- **Performance Improvement**: Increased driver acceptance rate by **36%**
+- **Real-time Processing**: Built optimization systems for dynamic driver-rider matching
+- **Business Impact**: Significantly improved platform efficiency and user experience
 
-**Technologies**: Python, TensorFlow, Apache IoT, InfluxDB, Grafana
+**Technologies**: Machine Learning, Optimization Algorithms, Real-time Systems
 
-## Open Source Contributions
+### Cashless Payment Platform
+**Impact**: 700K daily transactions for contactless payments
 
-### Data Processing Libraries
-- Contributed to Apache Spark performance optimizations
-- Built open-source feature engineering library
-- Created data validation and testing frameworks
-- Maintained machine learning utility packages
+- **Payment Innovation**: Launched cashless and contactless payment experience
+- **Transaction Volume**: Handled **700K daily transactions**
+- **User Experience**: Transformed payment experience for millions of users
+- **Security**: Implemented secure, scalable payment processing
 
-### Technical Leadership
-- Authored technical blogs on ML architecture patterns
-- Spoke at industry conferences on scalable systems
-- Mentored teams in ML and data engineering best practices
-- Led technical working groups and standards committees
+**Technologies**: Payment Systems, Security, Mobile Applications
 
-## Awards & Recognition
+### Ola Electric - Technology Strategy
+**Impact**: Founded technology strategy for electric mobility in India
 
-### Technical Excellence
-- **Innovation Award**: Best ML Platform Architecture (2023)
-- **Leadership Award**: Cross-functional Team Excellence (2022)
-- **Patent Holder**: 3 patents in recommendation systems and optimization
+- **Innovation Leadership**: Created Technology Strategy for launching network of 2-wheeler electric mopeds
+- **Business Development**: Established foundation for **Ola Electric** as separate business unit
+- **Sustainability**: Pioneered electric mobility technology strategy in India
+- **Strategic Vision**: Long-term technology roadmap for sustainable transportation
 
-### Industry Recognition
-- **Speaker**: ML Conference, Data Engineering Summit
-- **Advisor**: Technology startup board advisory roles
-- **Mentor**: Industry mentorship programs for emerging leaders
+**Technologies**: IoT, Electric Vehicle Technology, Strategic Planning
+
+---
+
+## Flipkart - E-Commerce Supply Chain (2010 - 2014)
+
+### Supply Chain Transformation Platform
+**Impact**: Scaled from 3K to 1 million daily orders
+
+- **Massive Scaling**: Built platform supporting growth from **3K to 1 Million daily orders**
+- **Warehouse Automation**: Implemented Robotic Warehouse Automation achieving **99.5% perfect order rate**
+- **Operational Excellence**: Reduced supply chain breach to **0.5% during peak season** at **300K daily orders**
+- **Infrastructure**: Led design and architecture of Flipkart Supply Chain from ground up
+
+**Technologies**: Warehouse Automation, Robotics, Supply Chain Systems
+
+### Delivery Innovation Platform
+**Impact**: Same-day and next-day delivery capabilities
+
+- **Speed Innovation**: Delivered same-day and next-day delivery capabilities
+- **Material Management**: Spearheaded transformation to unified material management platform
+- **Vision Implementation**: Built platform centered around Speed, Efficiency and Reliability at Scale
+- **Competitive Advantage**: Established industry-leading delivery capabilities
+
+**Technologies**: Logistics Optimization, Real-time Tracking, Material Management
+
+---
+
+## Earlier Career Achievements (2006 - 2010)
+
+### Informatica PowerCenter 9.0 - Big Data Platform
+**Impact**: Major enterprise software release for Big Data processing
+
+- **Enterprise Software**: Delivered major version release of **Informatica PowerCenter 9.0**
+- **Big Data Processing**: Built software for processing Big Data via ETL pipelines
+- **Industry Impact**: Contributed to enterprise data processing capabilities
+- **Software Engineering**: Advanced ETL and data processing technologies
+
+**Technologies**: Big Data, ETL, Enterprise Software
+
+### GE Energy - Scientific Computing
+**Impact**: Physics and thermodynamics software for energy systems
+
+- **Scientific Computing**: Built Physics and Thermodynamics FEA based Scientific Computing Software
+- **Energy Industry**: Contributed to GE Energy's computational capabilities
+- **Advanced Mathematics**: Implemented complex mathematical models
+- **Engineering Software**: Advanced scientific computing for energy applications
+
+**Technologies**: Scientific Computing, FEA, Physics Modeling
+
+### Yahoo News Personalization Engine
+**Impact**: Personalization engine for Yahoo News platform
+
+- **Personalization**: Built MLP and Collaborative Filtering based personalization engine
+- **Machine Learning**: Early implementation of recommendation systems
+- **User Experience**: Enhanced news consumption through personalization
+- **Innovation**: Pioneering work in content personalization
+
+**Technologies**: Machine Learning, Collaborative Filtering, Personalization
+
+---
+
+## Career Impact Summary
+
+### Business Value Delivered
+- **$3.8B**: Automation benefits through platform innovations
+- **$31.2M**: Annual cost reduction through optimization
+- **$4.6B**: GMS protection through safety and compliance systems
+- **$1.9B**: Annual business value through catalog modernization
+- **$50.6M/day**: Penalty prevention through compliance systems
+
+### Scale & Performance Achievements
+- **1.35M TPS**: Peak transaction handling with 99.99% availability
+- **25M+ daily shipments**: Global transportation network support
+- **700M products**: Safety and compliance management
+- **600+ clients**: Global platform client base
+- **11 marketplaces**: Worldwide marketplace coverage
+
+### Leadership & Team Development
+- **220+ interviews**: Conducted as Amazon Bar Raiser
+- **9 promotions**: Drove across team members at different levels
+- **40+ engineers**: Managed through multiple engineering managers
+- **Multiple locations**: Built teams across global offices
+
+### Awards & Recognition
+- **Amazon CEO Just Do It Award**: Highest level of Amazon recognition
+- **Amazon Bar Raiser**: Elite interviewing certification
+- **Innovation Leadership Award**: Ola recognition for technology innovation
+- **Above and Beyond Award**: Flipkart recognition for exceptional performance
