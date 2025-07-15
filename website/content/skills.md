@@ -1,87 +1,129 @@
 ---
 title: "Skills & Technologies"
-description: "Technical expertise and leadership capabilities"
+description: "Technical expertise spanning 20 years of scalable systems and machine learning"
 featured_image: ""
 ---
 
 # Skills & Technologies
 
-## Leadership & Management
+## Core Competencies
 
-### Team Leadership
-- Cross-functional team management
-- Technical mentoring and coaching
-- Performance management and career development
-- Agile and Scrum methodologies
+### Leadership & Strategy
+- **Technology and AI Strategy** - Driving innovation across globally distributed systems
+- **Digital Transformation** - Leading enterprise-wide modernization initiatives
+- **Change Management** - Managing organizational transitions and growth
+- **Budget Management** - Overseeing technology investments with measurable ROI
+- **Innovation and Technology Vision** - Translating business requirements into scalable infrastructure
+- **Stakeholder Management** - Building partnerships across organizations
 
-### Strategic Planning
-- Technology roadmap development
-- Business-technology alignment
-- Risk assessment and mitigation
-- Stakeholder management
+### Team Development & Management
+- **Hiring and Developing High-Performance Engineering Teams** - Built teams across multiple locations
+- **Agile Software/Product Development** - Iterative delivery and continuous improvement
+- **Product Management Collaboration** - Bridging technology and business needs
+- **Enterprise Integration** - Connecting systems across organizational boundaries
 
-### Communication
-- Technical presentation and documentation
-- Executive reporting and updates
-- Cross-team collaboration
-- Client and vendor management
+### Technical Excellence
+- **Machine Learning System Design** - Neural Networks, CNNs, Reinforcement Learning
+- **Large-Scale Data Systems & Analytics** - Processing 1.35M TPS with 99.99% availability
+- **Software Design and Architecture** - Building scalable, reliable systems
+- **Reliability, Security and Compliance** - Ensuring enterprise-grade security
+- **Machine Learning Operations (MLOps)** - End-to-end ML lifecycle management
 
-## Technical Expertise
-
-### Programming & Development
-- **Languages**: Python, Java, Scala, JavaScript, SQL
-- **Frameworks**: Spring, Django, React, Node.js
-- **Development**: API design, Microservices, RESTful services
+## Technical Skills
 
 ### Machine Learning & AI
-- **ML Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Techniques**: Deep Learning, NLP, Computer Vision, Recommendation Systems
-- **MLOps**: Model deployment, monitoring, A/B testing
-- **Data Science**: Statistical analysis, Feature engineering, Model evaluation
+- **ML/AI Techniques**: 
+  - Reinforcement Learning
+  - Neural Networks
+  - Convolutional Neural Networks (CNNs)
+  - Decision Trees
+  - Supervised/Unsupervised Learning Techniques
+- **ML Frameworks**: TensorFlow, PyTorch, Keras
+- **ML Platforms**: Amazon SageMaker, Jupyter
+- **Real-time ML Pipelines**: Content relevance scoring, driver allocation algorithms
+
+### Programming & Development
+- **Languages**: Python, Java, Ruby
+- **Development Practices**: CI/CD, Agile methodologies
+- **Architecture**: Microservices, API design, Scalable systems
+- **Big Data Processing**: Spark, Kafka for real-time streaming
 
 ### Cloud & Infrastructure
-- **Cloud Platforms**: AWS, Google Cloud, Azure
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure**: Terraform, CloudFormation
-- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Cloud Platforms**: AWS (extensive experience)
+- **Containerization**: Docker
+- **Infrastructure as Code**: CDK (Cloud Development Kit)
+- **Scalability**: Systems handling 1.35M TPS, 8.2M TPS evaluation platforms
+- **High Availability**: 99.99% uptime across global infrastructure
 
-### Data & Analytics
-- **Databases**: PostgreSQL, MongoDB, Cassandra, Redis
-- **Big Data**: Spark, Hadoop, Kafka, Airflow
-- **Data Warehousing**: Snowflake, BigQuery, Redshift
-- **Streaming**: Kafka, Kinesis, Pub/Sub
+### Databases & Data Systems
+- **NoSQL**: DynamoDB, Cassandra
+- **Relational**: MySQL
+- **Data Warehousing**: Redshift, BigQuery
+- **Analytics**: Athena
+- **Data Processing**: Real-time pipelines for 25M+ daily shipments
 
-### Architecture & Design
-- **Patterns**: Microservices, Event-driven, CQRS
-- **APIs**: REST, GraphQL, gRPC
-- **Security**: OAuth, JWT, Encryption, Compliance
-- **Scalability**: Load balancing, Caching, CDNs
+## Industry Expertise
 
-## Industry Knowledge
+### Domain Knowledge
+- **E-commerce Platforms**: Material Catalog systems serving 600+ clients
+- **Supply Chain & Logistics**: Safety and compliance for 25M+ daily shipments
+- **Transportation Technology**: Driver allocation algorithms, payment systems
+- **Social Networking**: Content ranking and personalization systems
+- **Enterprise Software**: ETL pipelines, scientific computing
 
-### Domain Expertise
-- E-commerce platforms and marketplace design
-- Supply chain optimization and logistics
-- Transportation and mobility solutions
-- Social networking and content platforms
-- Financial technology and payments
+### Business Impact
+- **Revenue Generation**: $1.9B annual business value through platform modernization
+- **Cost Optimization**: $31.2M annual operational cost savings
+- **Risk Management**: $50.6M daily penalty prevention through compliance systems
+- **Automation**: $3.8B in automation benefits through robotics integration
 
-### Business Understanding
-- Product management and strategy
-- User experience and customer journey
-- Business metrics and KPIs
-- Market analysis and competitive intelligence
+## Education & Certifications
 
-## Certifications & Learning
+### Recent Learning (2024)
+- **Generative AI with Large Language Models** - Deeplearning.AI
 
-### Professional Development
-- Continuous learning in emerging technologies
-- Industry conference speaking and participation
-- Technical community involvement
-- Thought leadership and knowledge sharing
+### Machine Learning Specialization
+- **Neural Networks and Deep Learning** - Deeplearning.AI (2018)
+- **Structuring Machine Learning Projects** - Deeplearning.AI (2018)
+- **Machine Learning** - Stanford University (2016)
 
-### Best Practices
-- Code review and quality assurance
-- Documentation and knowledge management
-- Testing strategies and automation
-- DevOps and CI/CD practices
+### Business & Leadership
+- **Introduction to Corporate Finance** - UPenn (2013)
+
+### Formal Education
+- **Post Graduate in Machine Learning and AI** - IIIT, Bangalore (2019)
+- **Masters in Computer Science** - BITS, Pilani (2006, CGPA 9.17/10)
+
+## Professional Recognition
+
+### Awards & Honors
+- **Amazon CEO Just Do It Award** - Exceptional innovation and delivery
+- **Amazon Bar Raiser** - Certified interviewer maintaining hiring standards
+- **Above and Beyond** - Flipkart recognition for exceptional performance
+- **Innovation Leadership Award** - Ola recognition for strategic technology vision
+
+### Leadership Metrics
+- **Team Development**: 9 promotions driven across engineering levels
+- **Hiring Excellence**: Conducted 220+ interviews as Amazon Bar Raiser
+- **Team Scale**: Managed 40 engineers through 2 engineering managers
+- **Global Impact**: Led teams across multiple locations and time zones
+
+## Best Practices & Methodologies
+
+### Engineering Excellence
+- **Code Quality**: Comprehensive review processes and quality assurance
+- **Documentation**: Knowledge management and technical documentation
+- **Testing**: Automated testing strategies ensuring 99.99% availability
+- **DevOps**: CI/CD practices for rapid, reliable deployment
+
+### Scalability & Performance
+- **System Design**: Architectures supporting millions of transactions
+- **Performance Optimization**: 1.35M TPS with sub-second response times
+- **Load Management**: Global distribution and traffic routing
+- **Monitoring**: Real-time system health and performance tracking
+
+### Innovation & Strategy
+- **Technology Vision**: Translating business needs into technical solutions
+- **Research & Development**: Staying current with emerging technologies
+- **Strategic Planning**: Multi-year technology roadmaps
+- **Cross-functional Collaboration**: Bridging technology and business teams

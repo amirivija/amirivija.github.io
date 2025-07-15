@@ -1,10 +1,10 @@
 baseURL = 'https://amirivija.github.io/'
 languageCode = 'en-us'
-title = 'Vijay Amirisetty - Senior Technology & ML Leader'
+title = 'Vijay Amirisetty - Engineering Leader | 20 Years Experience'
 theme = 'ananke'
 
 # Site description for SEO
-description = "Senior Technology and Machine Learning leader with 16+ years of experience in e-Commerce, Supply Chain, Transportation, Big Data and Social Networking platforms."
+description = "Engineering leader with 20 years of experience building globally distributed systems handling 1.35M TPS with 99.99% availability. Expert in cloud-based traffic management solutions delivering $3.8B automation benefits."
 
 # Author information
 [author]
@@ -45,13 +45,13 @@ description = "Senior Technology and Machine Learning leader with 16+ years of e
 # Social media links
 [params]
   github = "amirivija"
-  linkedin = "vijay-amirisetty"
-  description = "Senior Technology and Machine Learning leader with 16+ years of experience delivering scalable platforms."
+  linkedin = "amirisetty"
+  description = "Engineering leader with 20 years of experience building globally distributed systems. Expert in machine learning, scalable platforms, and team leadership."
   
 # SEO and social media
 [params.social]
   twitter = "vijayamirisetty"
-  linkedin = "vijay-amirisetty"
+  linkedin = "amirisetty"
   github = "amirivija"
 
 # Site features
